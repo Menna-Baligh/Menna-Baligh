@@ -54,6 +54,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Menna55520/Menna55520/output/snake.svg" alt="Snake animation" />
 
 ###
