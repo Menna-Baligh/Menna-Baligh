@@ -1,34 +1,20 @@
-<h2 align="center">Hi 👋! My name is Menna Baligh</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I%27m+Menna+Baligh;I%27m+currently+learning+Laravel" alt="Typing SVG" />
+</h1>
+ 
 
----
-
-## 💫 About Me
-✨ Creating bugs since I wrote my first line of code  
-📚 I'm currently learning Laravel  
-🎯 Goals: Master Backend Development  
-🎲 Fun fact: I'm a movie enthusiast who never skips a good movie  
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,postman,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Menna-Baligh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Menna-Baligh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Menna-Baligh&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Menna-Baligh&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />  
   <img src="https://streak-stats.demolab.com?user=Menna-Baligh&theme=dracula&hide_border=false" height="150" alt="streak graph" />  
 </div>
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
-<img align="right" height="150" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611e5dm968xngx5tnrpa3wcqhboimflqe2ajpdx0m5u&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-## 💌 Connect with me
 <p align="left">
   <a href="https://www.instagram.com/menna___baligh" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/>
@@ -46,5 +32,3 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail"/>
   </a>
 </p>
-
----
