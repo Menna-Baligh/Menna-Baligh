@@ -48,46 +48,6 @@
 ---
 
 <div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🛒 SuppliMe</h3>
-      <p>Smart online supermarket platform — 3 modules:<br/><strong>User · Admin · Delivery</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Menna-Baligh/SuppliMe">
-        <img src="https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>⚙️ MVCFramework</h3>
-      <p>Custom PHP mini-framework built from scratch<br/><strong>MVC Pattern · Custom Router · PDO</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVC-Pattern-blueviolet?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PDO-Database-4479A1?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Menna-Baligh/MVCFramework">
-        <img src="https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
   
 ### 📊 GitHub Stats
  
